@@ -1,0 +1,6 @@
+.env
+*.env
+last_status.txt
+__pycache__/
+*.pyc
+.DS_Store
