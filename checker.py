@@ -7,7 +7,7 @@ from email.mime.text import MIMEText
 from pathlib import Path
 
 # ================= 配置区 =================
-INVITE_LINK = "https://discord.gg/2cSE9Dtv6"   # 改成你要监控的链接
+INVITE_LINK = "https://discord.gg/elysianhorizon"   # 改成你要监控的链接
 SMTP_SERVER = "smtp.qq.com"
 SMTP_PORT = 465
 SENDER_EMAIL = "493302953@qq.com"            # 你的发件邮箱
